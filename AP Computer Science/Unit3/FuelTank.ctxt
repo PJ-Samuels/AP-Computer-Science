@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FuelTank
+comment1.params=f
+comment1.target=FuelTank(int)
+comment2.params=
+comment2.target=int\ getFuelLevel()
+numComments=3

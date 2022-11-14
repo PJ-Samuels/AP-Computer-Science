@@ -1,0 +1,59 @@
+
+
+public class RecursionTraditionalVsTail
+{
+    public static void main()
+    {
+        /**
+         *
+         * In traditional recursion, the typical model is that you perform your 
+         * recursive calls first, and then you take the return value of the 
+         * recursive call and calculate the result. In this manner, 
+         * you don't get the result of your calculation until you have 
+         * returned from every recursive call.
+         * 
+         * In tail recursion, you perform your calculations first, and then you execute 
+         * the recursive call, passing the results of your current step to the 
+         * next recursive step. This results in the last statement being in the 
+         * form of "(return (recursive-function params))" 
+         * Basically, the return value of any given recursive step is the same as 
+         * the return value of the next recursive call.
+         * 
+         * http://stackoverflow.com/questions/33923/what-is-tail-recursion
+         */
+        
+    }
+    
+    // example of traditional recursion (non-tail)
+    // Returns the sum of x to 1
+    public static int recsum( int x )
+    {
+        if (x == 1)
+            return x;
+        else
+            return x + recsum(x - 1);
+    }
+    
+    // example of tail recursion
+    // Returns the sum of x to 1
+    public static int tailrecsum(int x, int running_total)
+    {
+        if (x == 0)
+            return running_total;
+        else
+            return tailrecsum(x - 1, running_total + x);
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}

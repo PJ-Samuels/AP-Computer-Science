@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArraysNotes
+comment1.params=
+comment1.target=void\ main()
+comment2.params=x
+comment2.target=void\ arrayMethod(int[])
+comment3.params=arr\ index
+comment3.target=int\ recursiveSum(int[],\ int)
+numComments=4

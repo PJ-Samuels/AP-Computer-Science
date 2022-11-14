@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TailRecursionOperationsLab
+comment1.params=n\ ans
+comment1.target=int\ factorial(int,\ int)
+comment1.text=\r\n\ factorial\ \r\n\ this\ method\ takes\ the\ all\ procceeding\ numbers\ before\ the\ input\ and\ multiplies\ them\ togethor\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ sum\ of\ the\ all\ numbers\ before\ and\ including\ the\ input\ multiplied\ by\ eachother\r\n
+comment2.params=a\ b\ c\ ans
+comment2.target=int\ ab_plus_c(int,\ int,\ int,\ int)
+comment2.text=\r\n\ ab_plus_c\r\n\ the\ method\ will\ recursivly\ multiply\ a*b\ and\ then\ add\ c\ when\ the\ recursion\ is\ concluded\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ the\ sum\ of\ a*b+c\r\n
+comment3.params=x\ ant
+comment3.target=int\ recursiveLooperPositive(int,\ int)
+comment3.text=\r\n\ recursiveLooperPositive\r\n\ this\ method\ will\ add\ all\ the\ numbers\ leading\ up\ to\ the\ input,\ postive\ or\ negative(ex.\ 4\ \=\ 1+2+3+4)\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ \ \ \ \ returns\ the\ interger\ value\ of\ the\ sum\ of\ all\ numbers\ leading\ up\ the\ input\r\n
+comment4.params=x\ y\ ans
+comment4.target=double\ recursivePower(int,\ int,\ double)
+comment4.text=\r\n\ recursivePower\r\n\ this\ method\ will\ recursively\ find\ the\ result\ of\ the\ problem\ x^y\r\n\ @return\ \ \ \ \ \ double\ \ \ \ \ \ returns\ the\ int\ result\ of\ x^y\r\n
+comment5.params=str\ ans
+comment5.target=int\ recursiveStringtoInt(java.lang.String,\ int)
+comment5.text=\r\n\ recursiceStringtoInt\r\n\ the\ method\ will\ turn\ a\ string\ of\ numbers\ into\ an\ int\ \r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ the\ interger\ value\ of\ the\ number\ within\ the\ string\r\n
+comment6.params=n\ ans
+comment6.target=java.lang.String\ printOperationsN(int,\ java.lang.String)
+comment6.text=\r\n\ printOperationsN\r\n\ this\ method\ will\ find\ out\ if\ the\ number\ is\ even\ or\ odd\ and\ if\ even\ it\ will\ divide\ by\ 2\ and\ add\ 1\ until\ it\ reaches\ zero\ or\ multiply\ by\ 3\ if\ it\ is\ odd\ \ \ \ \r\n\ \ \ \ \ \ and\ then\ it\ will\ determine\ if\ it\ is\ odd\ or\ even\ again\ while\ printing\ out\ the\ result\ with\ a\ space\r\n\ @return\ \ \ \ \ \ String\ \ \ \ \ \ the\ a\ String\ of\ spaces\ and\ numbers\ showing\ the\ results\ of\ muiltplying\ by\ 3\ or\ dividing\r\n
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=BankAccount(java.lang.String)
+comment1.params=n\ b
+comment1.target=BankAccount(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ This\ returns\ a\ String\ that\ represents\ what\ the\ class\ will\ \r\n\ \ look\ like\ when\ it\ is\ printed\r\n\ @return\ String\ \ \ Name\ and\ Balance\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=double\ checkBalance()
+comment5.params=deposit
+comment5.target=double\ deposit(double)
+comment5.text=\r\n\ This\ method\ will\ increse\ the\ balance\ by\ the\ parameter\r\n\ @param\ \ \ double\ \ \ \ This\ is\ the\ amount\ we\ will\ increase\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ balance\ by\ \r\n\ @return\ \ double\ \ \ \ \ \ This\ is\ the\ new\ balance\r\n
+comment6.params=withdraw
+comment6.target=double\ withdraw(double)
+comment6.text=\r\n\ Withdraw\ will\ remove\ parameter\ from\ the\ balance\ and\ if\ the\ balance\ is\ less\ than\ zero\ afterwards,\r\n\ \ apply\ a\ penalty\ o\ the\ account\r\n\ \ @param\ double\ \ \ this\ is\ the\ amount\ to\ withdraw\r\n\ \ @return\ double\ \ the\ current\ balance\ after\ the\ withdraw\r\n
+comment7.params=transferTo\ amount
+comment7.target=double\ transfer(BankAccount,\ double)
+comment7.text=\r\n\ Transfer\ will\ move\ funds\ from\ this\ BankAccount\ into\ the\r\n\ parameter\ BankAccount\r\n\ @param\ \ \ BankAccount\ transferTo\ \ This\ is\ where\ the\ funds\ will\ be\ transfered\ to\r\n\ @param\ \ \ double\ amount\ \ \ \ \ \ \ how\ much\ money\ will\ be\ transfered\r\n\ @return\ \ double\ \ current\ balance\ of\ this\ BankAccount\ after\ transfer\r\n
+numComments=8

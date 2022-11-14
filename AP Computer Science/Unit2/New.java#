@@ -1,0 +1,47 @@
+public class 
+
+
+
+
+
+ // This method will return n!   (this is factorial)  5! = 5 * 4 * 3 * 2 * 1 = 120
+//  factorial( -5 ) = (-5)! = -5 * -4 * -3 * -2 * -1 = -120
+// Precondition: n >= 0
+// Note: Test on small numbers, as it returns an int, it will quickly outgrow the size of an int
+public static int factorial( int n , int ans)
+ 
+ 
+// This method will return the result of a*b + c.  You cannot use the * operator
+public static int ab_plus_c( int a , int b , int c  , int ans)
+ 
+ 
+// This method will return the sum of all integers from 0 to x using a recursive method
+// x can be positive or negative, so return the values properly
+// must use recursion
+public static int recursiveLooperPositive( int x , int ant)
+ 
+example:
+recursiveLooper( 5 , 0 )  - returns 15  
+0 + 1 + 2 + 3 + 4 + 5
+ 
+recursiveLooper( -6 , 0 ) – returns -21
+0 + -1 + -2 + -3 + -4 + -5 + -6 = -21
+ 
+ 
+// This method will return xy
+// precondition: y >= 0
+// must use recursion
+public static double recursivePower( int x , int y , double ans )
+ 
+ 
+// Write a method that will convert a String of numbers into an int
+// must use recursion, must convert a single number at a time
+// Note: you can’t use Integer.valueOf()
+public static int recursiveStringtoInt( String str , int ans)
+ 
+ 
+ // n is a positive integer and print out the values of n until it is 1
+// If n is even divide by 2, if it is odd multiply it by 3 and add 1. 
+// Returns it as a String
+public static String printOperationsN( int n  , String ans)
+ 

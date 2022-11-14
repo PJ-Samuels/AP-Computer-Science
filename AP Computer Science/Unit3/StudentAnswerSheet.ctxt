@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StudentAnswerSheet
+comment1.params=n\ a
+comment1.target=StudentAnswerSheet(java.lang.String,\ java.util.ArrayList)
+comment2.params=key
+comment2.target=double\ getScore(java.util.ArrayList)
+comment2.text=\r\n\ @param\ key\ \ the\ list\ of\ correct\ answers,\ represented\ as\ Strings\ of\ length\ one\r\n\ \ \ \ \ \ precondition\:\ key.size()\ is\ equal\ to\ the\ number\ of\ answers\ in\ this\ answer\ sheet\r\n\ @return\ \ this\ student's\ test\ score\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\ \r\n\ @return\ the\ name\ of\ the\ student\r\n
+numComments=4

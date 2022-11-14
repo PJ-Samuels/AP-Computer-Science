@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=
+comment1.target=Point()
+comment2.params=x1\ y1
+comment2.target=Point(double,\ double)
+comment3.params=
+comment3.target=double\ getX1()
+comment4.params=
+comment4.target=double\ getY1()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\r\n\ This\ method\ returns\ a\ String\ in\ the\ format\ of\ x\ ,\ y\r\n\ @return\ \ \ String\ \ \ \ \ \ returns\ the\ fields\ in\ a\ formatted\ String\r\n
+comment6.params=x2\ y2
+comment6.target=Point\ midpoint(double,\ double)
+comment6.text=\r\n\ Point\ midpoint\r\n\ This\ method\ finds\ the\ midpoint\ between\ two\ points\ \r\n\ @return\ \ \ \ \ \ Point\ \ \ \ \ \ returns\ the\ midpoint\ of\ the\ two\ points\ \r\n
+comment7.params=p
+comment7.target=int\ compareTo(Point)
+comment7.text=\r\n\ compareTo\r\n\ This\ will\ compare\ how\ far\ to\ points\ are\ away\ from\ the\ origin\ on\ the\ x\ axis\ \r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ will\ return\ the\ distance\ from\ the\ x\ axis\ on\ the\ origin\r\n
+comment8.params=p1\ p2
+comment8.target=double\ distance(Point,\ Point)
+comment8.text=\r\n\ distance\r\n\ this\ method\ returns\ the\ distance\ between\ two\ points\ \r\n\ @return\ \ \ \ \ \ double\ \ \ \ \ \ is\ the\ distance\ value\ between\ the\ two\ points\r\n
+comment9.params=p1\ p2
+comment9.target=Fraction\ slope(Point,\ Point)
+comment9.text=\r\n\ slope\r\n\ this\ method\ returns\ the\ slope\ of\ the\ equation\ between\ two\ points\r\n\ @return\ \ \ \ \ \ Fraction\ \ \ \ \ \ \ \ this\ will\ return\ the\ y\ value\ as\ of\ the\ distance\ between\ the\ point\ as\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ numerator\ and\ the\ and\ the\ distance\ between\ the\ x\ values\ in\ the\ as\ the\ denominator\r\n
+numComments=10

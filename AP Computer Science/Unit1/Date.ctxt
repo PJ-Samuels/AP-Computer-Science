@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Date()
+comment1.params=m\ d\ y
+comment1.target=Date(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getMonth()
+comment2.text=\r\n\ returns\ the\ month\r\n\ @return\ int\ \ the\ month\r\n
+comment3.params=
+comment3.target=int\ getDay()
+comment4.params=
+comment4.target=int\ getYear()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\ \r\n\ toString\r\n\ This\ method\ returns\ a\ String\ in\ the\ format\ of\ month\ /\ day\ /\ year\r\n\ @return\ \ String\ \ \ returns\ the\ fields\ in\ a\ formatted\ String\r\n
+comment6.params=d
+comment6.target=int\ daysTill(Date)
+comment6.text=\ \r\n\ daysTill\r\n\ This\ method\ finds\ the\ number\ of\ days\ between\ the\ date\ who\ called\ the\ method\ and\ the\ parameter\r\n\ Note\:\ You\ do\ not\ know\ which\ date\ is\ first\r\n\ For\ simplicity\ assume\ 30\ days\ per\ each\ month\ and\ no\ leap\ years\r\n\ @param\ \ \ \ d\ \ \ Date\ parameter\ to\ find\ the\ number\ of\ days\ between\ this\ and\ the\ date\ who\ called\r\n\ @return\ int\ \ \ \ \ \ \ Returns\ the\ number\ of\ days\ between\ the\ dates\r\n
+comment7.params=birthday
+comment7.target=boolean\ onBirthdate(Date)
+comment8.params=d
+comment8.target=int\ compareTo(Date)
+numComments=9

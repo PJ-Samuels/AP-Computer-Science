@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayMethodsB
+comment1.params=arr\ x\ start
+comment1.target=int\ arrayIndex(int[],\ int,\ int)
+comment1.text=\r\n\ arrayIndex\r\n\ the\ method\ will\ travese\ the\ int[]\ looking\ from\ the\ specified\ start\ point\ to\ the\ end\ of\ the\ array\ and\ return\ the\ index\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ returns\ the\ index\ of\ number\ if\ it\ is\ in\ the\ array\r\n
+comment2.params=s\ target\ sIndex\ array\ aIndex
+comment2.target=void\ indexOf(java.lang.String,\ char,\ int,\ int[],\ int)
+comment2.text=\r\n\ indexOf\r\n\ the\ method\ will\ find\ all\ the\ index\ of\ a\ specificed\ char\ at\ return\ an\ array\ of\ those\ indexes\r\n\ @return\ \ \ \ \ \ int[]\ \ \ \ \ \ returns\ a\ string\ of\ the\ indexes\ of\ all\ chars\ that\ the\ user\ is\ looking\ for\r\n
+comment3.params=s\ cIndex
+comment3.target=java.lang.String\ charAtIndex(java.lang.String,\ int[])
+comment3.text=\r\n\ charAtIndex\r\n\ the\ method\ will\ take\ the\ certain\ chars\ at\ different\ index\ and\ return\ only\ those\ in\ one\ string\r\n\ @return\ \ \ \ \ \ String\ \ \ \ \ \ returns\ a\ string\ of\ the\ specificed\ chars\ at\ of\ the\ users\ inputs\r\n
+comment4.params=temp\ arr
+comment4.target=int[]\ rotate(int,\ int[])
+comment4.text=\r\n\ rotate\r\n\ the\ method\ takes\ a\ specified\ index\ ans\ changes\ index\ according\ to\ what\ the\ user\ wants\ the\ to\ be\ shifted\ around\r\n\ @return\ \ \ \ \ \ int[]\ \ \ \ \ \ \ returns\ the\ new\ shifted/\ modified\ array\ \r\n
+comment5.params=arr\ add
+comment5.target=int[]\ insert(int[],\ int)
+comment5.text=\r\ninsert\r\n\ the\ method\ returns\ a\ new\ array\ with\ the\ number\ the\ user\ wanted\ input\ into\ the\ specificed\ index\r\n@return\ \ \ \ \ \ \ int[]\ \ \ \ \ \ \ returns\ an\ array\ with\ the\ new\ input\ value\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LoopOperations
+comment0.text=\r\n\ PJ\ Samuels\r\n
+comment1.params=x
+comment1.target=int\ forLooper(int)
+comment1.text=\r\n\ forLooper\r\n\ This\ method,Using\ a\ for\ loop,\ will\ take\ every\ number\ coming\ before\ the\ input(and\ including\ the\ input)\ and\ adds\ them\ togethor\ to\ find\ the\ sum\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ this\ is\ the\ sum\ of\ all\ the\ collective\ numbers\ coming\ before\ the\ input\r\n
+comment2.params=x
+comment2.target=int\ whileLooper(int)
+comment2.text=\r\n\ whileLooper\r\n\ This\ method,\ using\ a\ while\ loop,\ will\ find\ the\ sum\ of\ all\ numbers\ preceeding\ and\ including\ the\ input\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ this\ is\ the\ sum\ of\ all\ the\ numbers\ preceding(and\ including)the\ input\r\n
+comment3.params=x
+comment3.target=int\ doWhileLooper(int)
+comment3.text=\r\n\ doWhileLooper\r\n\ This\ method,using\ a\ do\ while\ loop,\ will\ find\ the\ sum\ of\ all\ the\ numbers\ preceeding\ and\ including\ the\ input\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ this\ will\ return\ the\ sum\ of\ all\ the\ numbers\ <\=\ the\ input\r\n
+comment4.params=x\ y
+comment4.target=double\ power(int,\ int)
+comment4.text=\r\n\ power\r\n\ this\ Method\ will\ find\ x\ to\ the\ power\ y\ of\ without\ using\ any\ Math\ functions\r\n\ @return\ \ \ \ \ \ double\ \ \ \ \ \ this\ will\ return\ the\ double\ of\ x\ to\ the\ power\ of\ y\ is\ \r\n
+comment5.params=x
+comment5.target=boolean\ selfDivisor(int)
+comment5.text=\r\n\ selfdivisor\r\n\ the\ method\ will\ find\ out\ if\ all\ the\ digit\ of\ a\ given\ number/input\ are\ able\ to\ divid\ into\ the\ number/inout\r\n\ @return\ \ \ \ \ \ boolean\ \ \ \ \ this\ will\ return\ whether\ the\ number\ is\ a\ selfdivisor\r\n
+numComments=6

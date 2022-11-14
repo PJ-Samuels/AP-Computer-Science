@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayListMethodsB
+comment0.text=\r\n\ PJ\ Samuels\r\n
+comment1.params=
+comment1.target=void\ clientMain()
+comment2.params=arr\ x\ start
+comment2.target=int\ arrayIndex(java.util.ArrayList,\ int,\ int)
+comment2.text=\r\n\ arrayIndex\r\n\ the\ method\ will\ traverse\ an\ ArrayList\ look\ for\ a\ specified\ int\ but\ starting\ from\ a\ specific\ index\r\n\ \ \ \ \ \ the\ method\ returns\ the\ index\ of\ the\ first\ occurance\ of\ the\ number\r\n\ @param\ \ \ arr\ \ \ \ \ is\ the\ arrayList\ being\ travesed\ for\ the\ given\ int\r\n\ @param\ \ \ x\ \ \ \ \ \ \ is\ the\ int\ being\ look\ for\ in\ the\ input\ ArrayList\r\n\ @param\ \ \ start\ \ \ is\ the\ index\ where\ the\ program\ will\ start\ to\ traverse\ the\ ArrayList\r\n\ @return\ \ int\ \ \ \ \ returns\ the\ -1\ or\ a\ number\ between\ the\ start\ and\ arr\ size\ -1\ \r\n
+comment3.params=s\ target\ sIndex\ a
+comment3.target=void\ indexOf(java.lang.String,\ char,\ int,\ java.util.ArrayList)
+comment3.text=\r\n\ indexOf\r\n\ the\ method\ recursivly\ travsers\ a\ string\ an\ looks\ for\ all\ the\ instances\ of\ a\ target\r\n\ \ \ \ \ \ and\ returns\ those\ indexes\ in\ the\ arrayList\ \r\n\ @param\ \ \ s\ \ \ is\ the\ String\ being\ recursivly\ \ traversed\ \r\n\ @param\ \ \ target\ \ \ is\ the\ char\ that\ is\ being\ searched\ for\ in\ the\ String\ \r\n\ @param\ \ \ sIndex\ \ \ is\ the\ index\ that\ the\ method\ will\ search\ of\ the\ char\ at\r\n\ @param\ \ \ a\ \ \ \ \ \ \ \ is\ the\ ArrayList\ that\ will\ hold\ the\ index\ values\ of\ the\ chars\ in\ the\ String\r\n
+comment4.params=arr
+comment4.target=java.util.ArrayList\ rotate(java.util.ArrayList)
+comment4.text=\r\n\ rotate\r\n\ the\ method\ will\ move\ the\ first\ integer\ of\ the\ ArrayList\ an\ move\ it\ to\ the\ back\ of\ the\ Array\r\n\ @param\ \ \ arr\ \ \ \ \ the\ ArrayList\ that\ will\ have\ its\ first\ value\ moved\ to\ the\ back\r\n\ @return\ \ ArrayList<Integet>\ \ \ \ \ \ returns\ the\ rotated\ ArrayList\ \r\n
+comment5.params=a\ x
+comment5.target=void\ insert(java.util.ArrayList,\ int)
+comment5.text=\r\n\ insert\r\n\ the\ method\ will\ insert\ a\ variable\ in\ the\ correct\ numeric\ place\ into\ a\ sorted\ ArrayList\r\n\ @param\ \ \ a\ \ \ is\ the\ array\ being\ travesed\ and\ added\ to\r\n\ @param\ \ \ x\ \ \ is\ the\ int\ being\ add\ into\ the\ Array\ in\ order\r\n
+numComments=6

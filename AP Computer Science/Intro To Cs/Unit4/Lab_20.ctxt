@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=celsius
+comment1.target=double\ celsiusToFahrenheit(double)
+comment1.text=\r\n\ \ \ \ Will\ convert\ a\ Celsius\ temperature\ to\ Fahrenheit\r\n\ \ \ \ @param\ \ celsius\ \ \ \ \ A\ double\ containing\ a\ value\ representing\ a\ temperature\ in\ Celsius\ degrees\r\n\ \ \ \ @return\ \ \ \ \ A\ double\ containing\ the\ Fahrenheit\ value\ of\ the\ celsius\ param\ \ \ \ \ \ \ \r\n
+comment2.params=fahrenheit
+comment2.target=double\ fahrenheitToCelsius(double)
+comment2.text=\r\n\ \ \ \ Will\ convert\ a\ Fahrenheit\ temperature\ to\ Celsius\r\n\ \ \ \ @param\ \ fahrenheit\ \ A\ double\ containing\ a\ value\ representing\ a\ temperature\ in\ Celsius\ degrees\r\n\ \ \ \ @return\ \ \ \ \ A\ double\ containing\ the\ Celsius\ value\ of\ the\ fahrenheit\ param\ \ \ \ \ \ \ \r\n
+comment3.params=point1\ point2
+comment3.target=double\ distance(int[],\ int[])
+comment3.text=\r\n\ \ \ \ Will\ determine\ the\ distance\ between\ two\ points\r\n\ \ \ \ @param\ \ point1[]\ \ \ \ An\ int\ array,\ index\ 0\ is\ x,\ index\ 1\ is\ y\r\n\ \ \ \ @param\ \ point2[]\ \ \ \ An\ int\ array,\ index\ 0\ is\ x,\ index\ 1\ is\ y\r\n\ \ \ \ @return\ \ \ \ \ A\ double\ containing\ the\ distance\ between\ the\ two\ points\ \r\n
+comment4.params=toBeRounded
+comment4.target=double\ round(double)
+comment4.text=\r\n\ \ \ \ This\ method\ will\ round\ the\ parameter\ to\ the\ nearest\ ones\ place\r\n\ \ \ \ @param\ \ toBeRounded\ \ \ \ \ A\ double\ that\ will\ be\ rounded\r\n\ \ \ \ @return\ \ \ \ \ An\ int\ represenatitive\ of\ the\ param,\ but\ rounded\ to\ the\ ones\ place\ \ \ \ \ \ \r\n
+comment5.params=isEven
+comment5.target=boolean\ isNumberEven(int)
+comment5.text=\r\n\ \ \ \ This\ method\ will\ determine\ if\ a\ number\ is\ even\ or\ odd\r\n\ \ \ \ @param\ \ isEven\ \ \ \ \ \ An\ int\ value\ that\ could\ be\ positive\ or\ negative\r\n\ \ \ \ @return\ \ \ \ \ A\ boolean\ that\ is\ true\ if\ the\ param\ is\ even,\ false\ otherwise\ \ \ \ \ \ \ \ \r\n
+numComments=6

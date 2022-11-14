@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=departureD\ arrivalD\ departureT\ arrivalT\ c
+comment0.target=AirplaneTicket(Date,\ Date,\ Time,\ Time,\ double)
+comment1.params=
+comment1.target=Date\ getADate()
+comment2.params=
+comment2.target=Date\ getDDate()
+comment3.params=
+comment3.target=Time\ getATime()
+comment4.params=
+comment4.target=Time\ getDTime()
+comment5.params=
+comment5.target=double\ c()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ \r\n\ toString\r\n\ This\ method\ returns\ a\ String\ in\ the\ format\ below\ on\ separate\ lines\r\n\ Departure\ Time\ /\ Date\r\n\ Arrival\ Time\ /\ Date\r\n\ Cost\r\n\ @return\ \ String\ \ \ \ \ \ \ returns\ the\ fields\ in\ a\ formatted\ String\r\n
+comment7.params=
+comment7.target=Time\ totalFlightTime()
+comment7.text=\r\n\ totalFlightTime\r\n\ the\ method\ find\ the\ time\ between\ the\ arrival\ of\ a\ flight\ and\ depature\ of\ a\ flight\r\n\ @return\ \ \ \ \ \ Time\ \ \ \ \ \ \ \ The\ time\ is\ the\ difference\ of\ the\ depature\ and\ arrival\ of\ one\ flight\r\n
+comment8.params=a1\ a2
+comment8.target=Time\ layoverTime(AirplaneTicket,\ AirplaneTicket)
+comment8.text=\r\n\ layoverTime\r\n\ the\ method\ take\ the\ arrival\ time\ of\ one\ flight\ and\ the\ depture\ time\ of\ another\ and\ finds\ the\ layover\ time\ between\ both\ flights\r\n\ @return\ \ \ \ \ \ Time\ \ \ \ \ \ \ \ the\ method\ returns\ the\ difference\ in\ time\ between\ the\ two\ flights\r\n
+numComments=9

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RecursionTraditionalVsTail
+comment1.params=
+comment1.target=void\ main()
+comment2.params=x
+comment2.target=int\ recsum(int)
+comment3.params=x\ running_total
+comment3.target=int\ tailrecsum(int,\ int)
+numComments=4

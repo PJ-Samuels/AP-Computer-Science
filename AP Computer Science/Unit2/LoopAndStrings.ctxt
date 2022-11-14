@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LoopAndStrings
+comment0.text=\r\n\ PJ\ Samuels\r\n\ Lab\ 8A\r\n
+comment1.params=str
+comment1.target=java.lang.String\ removeNumbers(java.lang.String)
+comment1.text=\r\n\ removeNumbers\r\n\ This\ method\ takes\ all\ numbers\ out\ of\ a\ string\ statement\ a\ returns\ the\ resulting\ string\ without\ numbers\r\n\ @return\ \ \ \ \ \ String\ \ \ \ \ \ returns\ a\ string\ with\ out\ the\ numbers\ in\ the\ original\r\n
+comment2.params=str
+comment2.target=int\ countWords(java.lang.String)
+comment2.text=\r\n\ countWords\r\n\ The\ method\ counts\ all\ the\ words\ in\ a\ string\ and\ tell\ the\ total\ to\ the\ user\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ the\ int\ is\ all\ the\ collective\ words\ in\ the\ string\ \ \ \ \ \r\n
+comment3.params=str
+comment3.target=int\ mathStringInOrder(java.lang.String)
+comment3.text=\r\n\ mathStringInOrder\r\n\ The\ method\ performs\ the\ operation\ within\ the\ string\ and\ then\ returns\ the\ answer\ of\ the\ operations\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ returns\ an\ int\ of\ the\ result\ of\ the\ operations\ performed\ in\ the\ string\r\n
+numComments=4

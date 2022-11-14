@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FuelRobot
+comment1.params=i\ fr
+comment1.target=FuelRobot(int,\ boolean)
+comment2.params=
+comment2.target=boolean\ isFacingRight()
+comment3.params=
+comment3.target=void\ changeDirection()
+comment4.params=numLocs
+comment4.target=void\ moveForward(int)
+comment5.params=
+comment5.target=int\ getCurrentIndex()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

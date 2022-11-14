@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StringPart
+comment1.params=start\ length
+comment1.target=StringPart(int,\ int)
+comment2.params=
+comment2.target=int\ getStart()
+comment3.params=
+comment3.target=int\ getLength()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

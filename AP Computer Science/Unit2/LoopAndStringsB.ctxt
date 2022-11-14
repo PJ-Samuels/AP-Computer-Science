@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LoopAndStringsB
+comment1.params=str
+comment1.target=int\ countMultiLetterWords(java.lang.String)
+comment1.text=\r\n\ countMultiLetterWords\r\n\ counts\ how\ many\ \ real\ words\ are\ in\ the\ string\ ,\ excludes\ all\ words\ with\ a\ number\ in\ it\ \r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ the\ number\ of\ real\ words\ in\ the\ entire\ string\r\n
+comment2.params=a
+comment2.target=java.lang.String\ romanNumeral(int)
+comment2.text=\r\n\ romanNumeral\r\n\ \r\n\ @return\ \ \ \ \ \ String\ \ \ \ \ \ returns\ the\ roman\ numeral\ form\ of\ the\ input\ Int\r\n
+comment3.params=str
+comment3.target=int\ mathStringPreOrder(java.lang.String)
+comment3.text=\r\n\ mathStringPreOrder\r\n\ takes\ the\ math\ operation\ in\ front\ of\ the\ number\ and\ executes\ it\ upon\ the\ other\ 2\ other\ numbers\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ returns\ the\ result\ of\ the\ operation\r\n
+numComments=4

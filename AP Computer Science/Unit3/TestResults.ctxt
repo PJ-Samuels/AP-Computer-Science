@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestResults
+comment1.params=s
+comment1.target=TestResults(java.util.ArrayList)
+comment2.params=key
+comment2.target=java.lang.String\ highestScoringStudent(java.util.ArrayList)
+comment2.text=\r\n\ Precondition\:\ \ sheets.size()\ >\ 0\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ all\ answer\ sheets\ in\ sheets\ have\ the\ same\ number\ of\ answers\r\n\ @param\ \ key\ \ the\ list\ of\ correct\ answer\ represented\ as\ Strings\ of\ length\ one\r\n\ \ \ \ \ \ \ \ \ Precondition\:\ key.size()\ is\ equal\ to\ the\ number\ of\ answers\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ each\ of\ the\ answer\ sheets\ in\ sheets\r\n\ @return\ \ the\ name\ of\ the\ student\ with\ the\ highest\ score\r\n
+numComments=3

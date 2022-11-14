@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SortAndSearch
+comment1.params=arr\ pos1\ pos2
+comment1.target=void\ arraySwap(int[],\ int,\ int)
+comment1.text=\r\n\ arraySwap\r\n\ the\ method\ swaps\ two\ given\ indexes\ in\ an\ array\r\n
+comment2.params=arr
+comment2.target=void\ bubbleSort(int[])
+comment2.text=\r\n\ bubbleSort\ \ \ \r\n\ The\ method\ sorts\ an\ array\ by\ travesing\ teh\ array\ and\ using\ the\ switch\ method,\ it\ results\ in\ the\ smallest\ to\ largest\ number\r\n
+comment3.params=arr\ index1\ index2
+comment3.target=void\ recurBubbleSort(int[],\ int,\ int)
+comment3.text=\r\n\ recurBubbleSort\r\n\ the\ method\ recursively\ sorts\ the\ array\ from\ smallest\ int\ to\ largest\ int\r\n
+comment4.params=arr\ index\ smallestIndex
+comment4.target=int\ recurFindSmallest(int[],\ int,\ int)
+comment4.text=\r\n\ recurFindSmallest\r\n\ the\ method\ recursivly\ finds\ the\ smallest\ value\ in\ the\ array\ and\ returns\ that\ number\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ \ \ \ \ the\ smallest\ number\ in\ the\ array\r\n
+comment5.params=arr\ index
+comment5.target=void\ arraySort(int[],\ int)
+comment5.text=\r\n\ arraySort\r\n\ the\ method\ sorts\ an\ array\ using\ the\ recurFindSmallest\ method\ \r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lab14
+comment1.params=length\ xRange\ yRange
+comment1.target=Point[]\ randomPoints(int,\ int,\ int)
+comment2.params=arr
+comment2.target=Point[]\ midpoints(Point[])
+comment3.params=length
+comment3.target=Date[]\ randomDates(int)
+comment4.params=arr
+comment4.target=void\ sortDates(Date[])
+comment5.params=arr
+comment5.target=Date[]\ datesBetween(Date[])
+numComments=6

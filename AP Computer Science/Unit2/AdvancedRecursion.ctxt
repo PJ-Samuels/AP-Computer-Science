@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AdvancedRecursion
+comment1.params=str\ ans
+comment1.target=java.lang.String\ Remove(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Remove\r\n\ the\ method\ will\ remove\ all\ duplicate\ letters\ coming\ after\ one\ letter\ is\ used\ but\ only\ the\ ones\ that\ come\ before\ a\ different\ letter\r\n\ \ \ \ \ \ it\ then\ returns\ the\ string\ of\ without\ all\ the\ duplicate\ letters\r\n\ @return\ \ \ \ \ \ String\ \ \ \ \ \ returns\ the\ new\ string\ without\ the\ duplicate\ letters\r\n
+comment2.params=x
+comment2.target=int\ totalPrimes(int)
+comment2.text=\r\n\ totalPrimes\r\n\ the\ method\ recursivly\ finds\ how\ many\ prime\ numbers\ are\ from\ 1\ to\ the\ input\ number\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ \ \ \ returns\ the\ how\ many\ prime\ numbers\ are\ from\ 1\ to\ the\ input\r\n
+numComments=3

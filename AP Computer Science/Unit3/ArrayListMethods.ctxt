@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArrayListMethods
+comment0.text=\r\n\ PJ\ Samuels\r\n
+comment1.params=arr\ x
+comment1.target=boolean\ inArray(java.util.ArrayList,\ int)
+comment1.text=\r\n\ inArray\r\n\ the\ program\ will\ traverse\ an\ ArrayList\ looking\ for\ an\ occurance\ of\ an\ int\ if\ their\ is\ none\ it\ will\ return\ false\r\n\ @param\ \ \ arr\ \ \ \ \ the\ ArrayList\ being\ traversed\r\n\ @param\ \ \ x\ \ \ the\ int\ being\ looked\ for\ the\ ArrayList\r\n\ @return\ ans\ \ \ boolean\ \ \ \ returns\ if\ the\ int\ is\ in\ the\ ArrayList\r\n
+comment2.params=arr
+comment2.target=double\ arrayAverage(java.util.ArrayList)
+comment2.text=\r\n\ arrayAverage\r\n\ the\ program\ traverses\ an\ ArrayList\ and\ Finds\ the\ smallest\ integer\ value,\ and\ returns\ this\ value\r\n\ @param\ \ \ arr\ \ \ \ \ is\ the\ ArrayList\ that\ you\ traverse\r\n\ @return\ \ double\ \ \ \ returns\ the\ avegare\ of\ the\ sum\ of\ all\ the\ numbers\ in\ the\ array\r\n
+comment3.params=arr
+comment3.target=int\ arraySmallest(java.util.ArrayList)
+comment3.text=\r\n\ arraySmallest\r\n\ the\ method\ will\ traverse\ and\ Arraylist\ searching\ for\ the\ smallest\ value\ and\ return\ it\r\n\ @param\ \ \ arr\ \ \ is\ the\ ArrayList\ \r\n\ @return\ \ int\ \ \ returns\ the\ smallest\ value\ in\ the\ ArrayList\r\n
+comment4.params=size\ range
+comment4.target=java.util.ArrayList\ randomArray(int,\ int)
+comment4.text=\r\n\ randomArray\r\n\ the\ method\ will\ create\ a\ method\ of\ the\ size\ of\ the\ variable\ size\ and\ will\ it\ with\ \r\n\ \ \ \ \ \ random\ numbers\ from\ 0\ to\ the\ range\r\n\ @param\ \ \ range\ \ \ is\ the\ range\ of\ random\ number\ that\ will\ be\ filled\ into\ the\ ArrayList\r\n\ @param\ \ \ size\ \ \ \ is\ the\ size\ of\ the\ ArrayList\r\n\ @return\ \ ArrayList<Integer>\ \ \ is\ the\ Arraylist\ of\ random\ size\ fill\ this\ random\ numbers\r\n
+comment5.params=arr\ x
+comment5.target=int\ arrayIndex(java.util.ArrayList,\ int)
+comment5.text=\r\n\ arrayIndex\r\n\ the\ method\ will\ traverse\ an\ ArrayList\ and\ look\ for\ the\ first\ occurance\ of\ x\ and\ return\ that\ index,\ \r\n\ \ \ \ \ \ if\ it\ doesn't\ have\ that\ x\ it\ will\ return\ -1\r\n\ @param\ \ \ arr\ \ \ \ \ is\ the\ Array\ list\ beiing\ traverse\ for\ x\r\n\ @param\ \ \ x\ \ \ \ \ \ \ is\ the\ variable\ being\ searched\ for\ in\ the\ ArrayLsit\r\n\ @return\ \ \ int\ \ \ \ is\ the\ index\ of\ the\ first\ occurance\ of\ x(will\ return\ -1\ if\ there\ is\ none)\r\n
+comment6.params=arr
+comment6.target=int\ longestRun(java.util.ArrayList)
+comment6.text=\r\n\ longestRun\ \ \ \r\n\ the\ method\ traverses\ an\ array\ looking\ for\ the\ longest\ sequence\ of\ an\ int\ object\ \r\n\ @param\ \ \ arr\ \ \ \ \ is\ the\ ArrayList\ that\ is\ traverse\ looking\ for\ the\ longest\ run\r\n\ @return\ \ int\ \ \ \ \ returns\ the\ longest\ sequence\ of\ numbers\ in\ the\ array\r\n
+numComments=7

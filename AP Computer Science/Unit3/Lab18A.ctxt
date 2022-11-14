@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Lab18A
+comment0.text=\r\n\ PJ\ Samuels\r\n
+comment1.params=arr
+comment1.target=int[]\ sumRow(int[][])
+comment2.params=arr
+comment2.target=void\ fillBounds(int[][])
+comment3.params=
+comment3.target=int[][]\ bingoCard()
+comment4.params=n
+comment4.target=int[][]\ magiceSquare(int)
+numComments=5

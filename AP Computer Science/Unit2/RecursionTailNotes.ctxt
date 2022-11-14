@@ -1,0 +1,38 @@
+#BlueJ class context
+comment0.target=RecursionTailNotes
+comment1.params=x\ ans
+comment1.target=int\ recursiveSum(int,\ int)
+comment10.params=s
+comment10.target=java.lang.String\ backwards(java.lang.String)
+comment10.text=\r\n\ backwards\r\n\ This\ recursive\ method\ will\ reverse\ the\ letters\ in\ a\ String\r\n\ @param\ \ \ s\ \ \ This\ is\ a\ String\ with\ a\ number\ of\ letters\ in\ it\r\n\ @return\ \ Will\ return\ a\ String\ that\ is\ backwards\ of\ the\ original\ String\r\n
+comment11.params=s\ ans
+comment11.target=java.lang.String\ backwards(java.lang.String,\ java.lang.String)
+comment12.params=s
+comment12.target=java.lang.String\ reverse(java.lang.String)
+comment13.params=s\ index\ ans
+comment13.target=java.lang.String\ reverse(java.lang.String,\ int,\ java.lang.String)
+comment14.params=str
+comment14.target=int\ wordCount(java.lang.String)
+comment14.text=\r\n\ It\ will\ count\ up\ how\ many\ words\ there\ are\ in\ a\ String\r\n\ Precondition\:\ No\ leading\ or\ trailing\ spaces.\ \ Only\ one\ space\ between\ words\r\n\ Precondition\:\ Index\ \=\ 0\ on\ first\ call\r\n
+comment15.params=str\ index\ ans
+comment15.target=int\ wordCount(java.lang.String,\ int,\ int)
+comment2.params=x
+comment2.target=int\ multiplyOdds(int)
+comment2.text=\ \r\n\ This\ method\ will\ only\ multiple\ odd\ numbers\ 1\ -\ x\r\n\ if\ x\ is\ even,\ it\ will\ make\ it\ the\ odd\ number\ x-1\r\n\ precondition\:\ ans\ \=\ 1\r\n
+comment3.params=x\ ans
+comment3.target=int\ multiplyOdds(int,\ int)
+comment4.params=num
+comment4.target=int\ sumFactorsTo(int)
+comment4.text=\r\n\ sumFactorsTo\r\n\ This\ recursive\ method\ will\ find\ the\ sum\ of\ all\ the\ factors\ of\ num\r\n\ @param\ \ \ num\ \ \ This\ is\ an\ int,\ and\ it\ is\ looking\ for\ its\ factors\r\n\ @param\ \ \ max\ \ \ This\ is\ an\ int,\ and\ it\ is\ a\ number\ smaller\ than\ num\r\n\ @return\ \ Will\ return\ an\ int,\ that\ is\ the\ sum\ of\ all\ the\ factors\ of\ num\r\n
+comment5.params=num\ max\ ans
+comment5.target=int\ sumFactorsTo(int,\ int,\ int)
+comment6.params=str
+comment6.target=java.lang.String\ evenIndexLetters(java.lang.String)
+comment6.text=\r\n\ This\ method\ will\ return\ as\ a\ String,\ only\ the\ even\ index\ letters\r\n\ "Hello\ World"\ \ returns\ "HloWrd"\r\n\ H\ +\ "llo\ World"\r\n\ l\ +\ "o\ World"\r\n\ o\ +\ "World"\r\n\ W\ +\ "rld"\ \r\n\ r\ +\ "d"\r\n\ d\r\n
+comment7.params=str\ ans
+comment7.target=java.lang.String\ evenIndexLetters(java.lang.String,\ java.lang.String)
+comment8.params=str
+comment8.target=java.lang.String\ evenIndexLettersV2(java.lang.String)
+comment9.params=str\ index\ ans
+comment9.target=java.lang.String\ evenIndexLettersV2(java.lang.String,\ int,\ java.lang.String)
+numComments=16

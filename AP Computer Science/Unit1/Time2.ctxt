@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=m\ p\ h
+comment0.target=Time2(int,\ int,\ int)
+comment1.params=
+comment1.target=Time2()
+comment2.params=
+comment2.target=int\ getH()
+comment3.params=
+comment3.target=int\ getM()
+comment4.params=
+comment4.target=int\ getP()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\r\n\ This\ method\ returns\ a\ String\ in\ the\ format\ of\ hour\:minute\:second\r\n\ @return\ \ String\ \ \ \ \ \ returns\ the\ fields\ in\ a\ formatted\ String\r\n
+comment6.params=
+comment6.target=int\ timeInSeconds()
+comment6.text=\r\n\ timeInSeconds\r\n\ This\ method\ converts\ the\ Time\ object\ into\ an\ int\ of\ seconds\r\n\ @return\ int\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Returns\ the\ fields\ all\ converted\ into\ seconds\r\n
+comment7.params=t
+comment7.target=int\ compareTo(Time2)
+comment7.text=\r\n\ compareTo\r\n\ This\ method\ compares\ the\ Time\ object\ that\ called\ the\ method\ to\ the\ Time\ object\ parameter\r\n\ @param\ \ \ \ \ \ \ t\ \ \ \ \ \ \ \ \ \ \ This\ is\ a\ Time\ object\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ negative\ means\ the\ object\ that\ called\ the\ method\ is\ before\ the\ parameter\r\n\ positive\ means\ the\ object\ that\ called\ the\ method\ is\ after\ the\ parameter\r\n\ zero\ means\ the\ object\ and\ the\ parameter\ are\ the\ same\ time\r\n
+comment8.params=t1\ t2
+comment8.target=int\ compareTo(Time2,\ Time2)
+comment8.text=\r\n\ Static\ means\ that\ its\ owned\ by\ the\ class\ not\ an\ object\r\n\ non\ static\ means\ that\ its\ owned\ by\ an\ indiviual\ object\r\n\ to\ this\ point\ ,\ everything\ besides\ main\ was\ non-static\r\n\ \r\n\ Static\ -\ there\ is\ only\ one\ \r\n\ \r\n\ a\ final\ static\ fieled\ might\ be\ public\r\n\ \r\n\ Methods\ can\ be\ static\ -\ generally\ speaking,\ you\ want\ to\ pass\ objects\ to\ these\ methods\r\n\ Client\ -\ call\ methods\ by\ saying\ ClassName.method()\r\n\ \ \ \ \ \ \ \ -\ Time.method()\r\n\ \r\n
+numComments=9

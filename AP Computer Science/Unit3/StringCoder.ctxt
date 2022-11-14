@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StringCoder
+comment1.params=master
+comment1.target=StringCoder(java.lang.String)
+comment1.text=\r\n\ @param\ master\ \ the\ master\ string\ for\ the\ StringCoder\r\n\ \ \ \ \ \ precondition\:\ The\ master\ string\ contains\ all\ the\ letters\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ of\ the\ alphabet\r\n
+comment2.params=parts
+comment2.target=java.lang.String\ decodeString(java.util.ArrayList)
+comment2.text=\r\n\ decodeString\r\n\ the\ method\ decodes\ the\ given\ ArrayList<StringParts>\ to\ show\ the\ encoded\ word\r\n\ @param\ \ parts\ \ an\ ArrayList\ of\ StringParts\ that\ are\ valid\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ the\ master\ String\r\n\ \ \ \ \ \ Precondition\:\ parts.size()\ >\ 0\ \r\n\ \ @return\ \ the\ String\ obtained\ by\ concatenatiing\ the\ parts\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ of\ the\ master\ String\r\n
+comment3.params=str
+comment3.target=StringPart\ findPart(java.lang.String)
+comment3.text=\r\n\ findPart\r\n\ the\ method\ finds\ the\ first\ occurance\ of\ the\ given\ string\ in\ the\ masterString\ \r\n\ @param\ str\ \ the\ string\ to\ encode\ using\ the\ master\ string\r\n\ \ \ \ \ \ Precodntion\:\ all\ the\ characters\ in\ str\ appear\ in\ the\ master\ String\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ str.length()\ >\ 0\r\n\ @return\ \ a\ string\ part\ in\ the\ master\ string\ that\ matches\ the\ begining\r\n\ \ \ \ \ \ \ \ \ \ of\ str.\ \ The\ returned\ string\ part\ has\ length\ at\ least\ 1\r\n
+comment4.params=word
+comment4.target=java.util.ArrayList\ encodeString(java.lang.String)
+comment4.text=\r\n\ encodeString\r\n\ the\ method\ encode\ the\ given\ word\ using\ the\ masterString\r\n\ @param\ word\ \ the\ string\ to\ be\ encoded\r\n\ \ \ \ \ \ precondition\:\ all\ the\ characters\ in\ word\ appear\ in\ the\ master\ string\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ word.length()\ >\ 0\r\n\ @return\ \ \ an\ ArrayList\ of\ StringParts\ of\ the\ master\ string\ that\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ can\ be\ combined\ to\ create\ word\r\n
+numComments=5

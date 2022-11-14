@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayMethods
+comment1.params=arr\ x
+comment1.target=boolean\ inArray(int[],\ int)
+comment1.text=\r\n\ inArray\r\n\ the\ method\ will\ traverse\ an\ array\ and\ return\ a\ true\ or\ false\ depending\ on\ whether\ the\ given\ number\ occurs\ in\ the\ method\ \r\n\ @return\ \ \ \ \ \ boolean\ \ \ \ \ returns\ whether\ a\ given\ number\ is\ in\ the\ array\r\n
+comment2.params=arr
+comment2.target=double\ arrayAverage(int[])
+comment2.text=\r\n\ arrayAverage\r\n\ given\ an\ array\ with\ all\ positive\ numbers,\ the\ method\ will\ sum\ all\ the\ numbers\ in\ the\ array\ and\ return\ that\ value\r\n\ @return\ \ \ \ \ \ double\ \ \ \ \ \ returns\ the\ sum\ of\ all\ numbers\ in\ the\ array\r\n
+comment3.params=arr
+comment3.target=int\ arraySmallest(int[])
+comment3.text=\r\n\ arraySmallest\r\n\ the\ method\ traverses\ a\ given\ method\ and\ finds\ the\ smallest\ number\ in\ the\ array\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ returns\ the\ smallest\ number\ in\ the\ array\r\n
+comment4.params=size\ range
+comment4.target=int[]\ randomArray(int,\ int)
+comment4.text=\r\n\ randomArray\r\n\ the\ method\ will\ create\ an\ array\ from\ the\ given\ size\ in\ the\ input\ and\ fill\ each\ index\ with\ numbers\ ranging\ from\ 0\ to\ the\ range\ input\r\n\ @return\ \ \ \ \ \ int[]\ \ \ \ \ \ \ returns\ an\ array\ of\ random\ numbers\ 0-range\r\n
+comment5.params=arr\ x
+comment5.target=int\ arrayIndex(int[],\ int)
+comment5.text=\r\n\ arrayIndex\r\n\ the\ method\ will\ traverse\ the\ input\ string\ and\ find\ the\ first\ instance\ of\ x\ returning\ that\ index\r\n\ @return\ \ \ \ \ \ int\ \ \ \ \ returns\ the\ index\ of\ the\ first\ instance\ of\ x\ in\ the\ array\r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=StaticVsNonStatic(int,\ int)
+comment1.params=a
+comment1.target=int\ doStuff(int)
+comment2.params=svns
+comment2.target=int\ doStuff(StaticVsNonStatic)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=int\ getYNS()
+numComments=6

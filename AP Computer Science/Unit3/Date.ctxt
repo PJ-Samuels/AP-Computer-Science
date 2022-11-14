@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Date
+comment1.params=
+comment1.target=Date()
+comment2.params=m\ d\ y
+comment2.target=Date(int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ \r\n\ toString\r\n\ This\ method\ returns\ a\ String\ in\ the\ format\ of\ month\ /\ day\ /\ year\r\n\ @return\ \ String\ \ \ returns\ the\ fields\ in\ a\ formatted\ String\r\n
+comment4.params=d
+comment4.target=int\ daysTill(Date)
+comment4.text=\ \r\n\ daysTill\r\n\ This\ method\ finds\ the\ number\ of\ days\ between\ the\ date\ who\ called\ the\ method\ and\ the\ parameter\r\n\ Note\:\ You\ do\ not\ know\ which\ date\ is\ first\r\n\ For\ simplicity\ assume\ 30\ days\ per\ each\ month\ and\ no\ leap\ years\r\n\ @param\ \ \ \ d\ \ \ Date\ parameter\ to\ find\ the\ number\ of\ days\ between\ this\ and\ the\ date\ who\ called\r\n\ @return\ int\ \ \ \ \ \ \ Returns\ the\ number\ of\ days\ between\ the\ dates\r\n
+comment5.params=d
+comment5.target=int\ compareTo(Date)
+numComments=6

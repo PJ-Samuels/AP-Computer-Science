@@ -1,0 +1,41 @@
+#BlueJ class context
+comment0.target=RecursionNotes
+comment1.params=
+comment1.target=void\ main()
+comment10.params=s
+comment10.target=java.lang.String\ backwards(java.lang.String)
+comment10.text=\r\n\ backwards\r\n\ This\ recursive\ method\ will\ reverse\ the\ letters\ in\ a\ String\r\n\ @param\ \ \ s\ \ \ This\ is\ a\ String\ with\ a\ number\ of\ letters\ in\ it\r\n\ @return\ \ Will\ return\ a\ String\ that\ is\ backwards\ of\ the\ original\ String\r\n
+comment11.params=s
+comment11.target=java.lang.String\ reverse(java.lang.String)
+comment11.text=\r\n\ Helper\ Recursive\ methods\r\n\ We\ put\ forth\ a\ public\ interface,\ with\ parameters\ that\ are\ \r\n\ \ \ needed\ by\ other\ classes\r\n\ \r\n\ reverse\ -\ String\ to\ be\ reversed\r\n\ \r\n\ we\ can\ write\ a\ private\ helper\ method\ that\ we\ call\ from\ our\ public\ method\r\n\ We\ can\ then\ add\ additional\ parameters\ to\ make\ our\ lives\ easier\r\n\ index\ values\ to\ keep\ track\ of\ what\ index\ we\ are\ working\ with\r\n
+comment12.params=s\ index
+comment12.target=java.lang.String\ reverse(java.lang.String,\ int)
+comment13.params=prefix\ word
+comment13.target=void\ printAnagrams(java.lang.String,\ java.lang.String)
+comment13.text=\r\n\ printAnagrams\r\n\ This\ recursive\ method\ will\ print\ all\ the\ anagrams\ of\ a\ given\ String\r\n\ @param\ \ \ prefix\r\n\ @param\ \ \ word\r\n
+comment14.params=str\ index
+comment14.target=int\ wordCount(java.lang.String,\ int)
+comment14.text=\r\n\ It\ will\ count\ up\ how\ many\ words\ there\ are\ in\ a\ string\r\n\ Precondition\:\ No\ leading\ or\ trailing\ spaces.\ Only\ one\ space\ between\ words\r\n\ precondition\:\ Index\ \=\ 0\ on\ first\ call\r\n
+comment2.params=x
+comment2.target=int\ recursiveSum(int)
+comment3.params=x
+comment3.target=int\ multiplyOdds(int)
+comment3.text=\ \r\n\ This\ method\ will\ only\ multiple\ odd\ numbers\ 1\ -\ x\r\n\ if\ x\ is\ even,\ it\ will\ make\ it\ the\ odd\ number\ x-1\r\n
+comment4.params=x
+comment4.target=int\ fib(int)
+comment4.text=\r\n\ fib\r\n\ This\ recursive\ method\ will\ find\ the\ x\ number\ in\ the\ fibinnaci\ sequence\r\n\ @param\ \ \ x\ \ \ This\ is\ an\ int,\ and\ it\ is\ used\ to\ find\ the\ xth\ fibinnaci\ number\r\n\ @return\ \ Will\ return\ an\ int,\ that\ is\ the\ sum\ of\ all\ the\ numbers\ in\ the\ \r\n\ \ \ \ \ \ \ \ \ \ fibinnaci\ sequence\r\n
+comment5.params=num\ max
+comment5.target=int\ sumFactorsTo(int,\ int)
+comment5.text=\r\n\ sumFactorsTo\r\n\ This\ recursive\ method\ will\ find\ the\ sum\ of\ all\ the\ factors\ of\ num\r\n\ @param\ \ \ num\ \ \ This\ is\ an\ int,\ and\ it\ is\ looking\ for\ its\ factors\r\n\ @param\ \ \ max\ \ \ This\ is\ an\ int,\ and\ it\ is\ a\ number\ smaller\ than\ num\r\n\ @return\ \ Will\ return\ an\ int,\ that\ is\ the\ sum\ of\ all\ the\ factors\ of\ num\r\n
+comment6.params=num\ den\ factor
+comment6.target=Unit1.Fraction\ simplify(int,\ int,\ int)
+comment6.text=\r\n\ Let\ us\ create\ a\ simplify\ method\ for\ a\ fraction\ object\ \r\n\ preconditition\:\ factor\ is\ equal\ to\ num\r\n\ precondition\:\ num\ and\ den\ are\ not\ equal\ to\ 0\r\n
+comment7.params=s1\ index
+comment7.target=void\ printString(java.lang.String,\ int)
+comment7.text=\ \r\n\ for(\ int\ i\ \=\ 0\ ;\ i\ <\ s1.length()\ ;\ i++\ )\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ String\ f\ \=\ s1.substring(\ 0\ ,\ i\ )\ ;\ \ \ \ \ \ //\ 0\ -\ i-1\r\n\ \ \ \ \ \ \ \ \ \ \ \ String\ m\ \=\ s1.substring(\ i\ ,\ i\ +\ 1\ )\ ;\ \ //\ i\ -\ i\r\n\ \ \ \ \ \ \ \ \ \ \ \ String\ b\ \=\ s1.substring(\ i\ +\ 1\ );\ \ \ \ \ \ \ //\ i+1\ -\ end\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(\ f\ +\ "\ "\ +\ m\ +\ "\ "\ +\ b\ );\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ Lets\ reimplement\ this\ as\ a\ recursive\ method\r\n
+comment8.params=str
+comment8.target=java.lang.String\ evenIndexLetters(java.lang.String)
+comment8.text=\r\n\ This\ method\ will\ return\ as\ a\ String,\ only\ the\ even\ index\ letters\r\n\ "Hello\ World"\ \ returns\ "HloWrd"\r\n
+comment9.params=str\ index
+comment9.target=java.lang.String\ evenIndexLetters(java.lang.String,\ int)
+numComments=15

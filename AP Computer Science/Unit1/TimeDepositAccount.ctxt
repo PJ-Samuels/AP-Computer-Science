@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=i\ b
+comment0.target=TimeDepositAccount(double,\ double)
+comment1.params=
+comment1.target=void\ addInterst()
+comment2.params=
+comment2.target=double\ getBalance()
+comment3.params=
+comment3.target=double\ withdraw()
+numComments=4
